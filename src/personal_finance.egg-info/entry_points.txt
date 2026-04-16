@@ -1,0 +1,2 @@
+[console_scripts]
+pf = personal_finance.cli:app
